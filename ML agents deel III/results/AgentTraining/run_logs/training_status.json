@@ -1,0 +1,56 @@
+{
+    "AgentTraining": {
+        "checkpoints": [
+            {
+                "steps": 31519,
+                "file_path": "results\\AgentTraining\\AgentTraining\\AgentTraining-31519.onnx",
+                "reward": -1.0,
+                "creation_time": 1682038455.9566445,
+                "auxillary_file_paths": [
+                    "results\\AgentTraining\\AgentTraining\\AgentTraining-31519.pt"
+                ]
+            },
+            {
+                "steps": 499973,
+                "file_path": "results\\AgentTraining\\AgentTraining\\AgentTraining-499973.onnx",
+                "reward": null,
+                "creation_time": 1682042737.5922954,
+                "auxillary_file_paths": [
+                    "results\\AgentTraining\\AgentTraining\\AgentTraining-499973.pt"
+                ]
+            },
+            {
+                "steps": 999947,
+                "file_path": "results\\AgentTraining\\AgentTraining\\AgentTraining-999947.onnx",
+                "reward": null,
+                "creation_time": 1682046880.983445,
+                "auxillary_file_paths": [
+                    "results\\AgentTraining\\AgentTraining\\AgentTraining-999947.pt"
+                ]
+            },
+            {
+                "steps": 1000011,
+                "file_path": "results\\AgentTraining\\AgentTraining\\AgentTraining-1000011.onnx",
+                "reward": null,
+                "creation_time": 1682046881.0452797,
+                "auxillary_file_paths": [
+                    "results\\AgentTraining\\AgentTraining\\AgentTraining-1000011.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000011,
+            "file_path": "results\\AgentTraining\\AgentTraining.onnx",
+            "reward": null,
+            "creation_time": 1682046881.0452797,
+            "auxillary_file_paths": [
+                "results\\AgentTraining\\AgentTraining\\AgentTraining-1000011.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
